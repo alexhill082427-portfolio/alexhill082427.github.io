@@ -5,7 +5,8 @@ This repository contains the source code for my personal website, hosted via Git
 The site serves as a centralized location for:
   
 - Python data analysis projects  
-- Academic research writing  
+- Academic research writing
+- Excel-based projects
 
 **Live Site:**  
 https://alexhill082427.github.io  
@@ -13,8 +14,11 @@ https://alexhill082427.github.io
 ---
 
 ## Purpose
+This website is designed to provide clear demonstrations of my analytical and technical work.
 
-This website is designed to present technical and analytical work in a structured, accessible format while linking to full GitHub repositories for detailed review.
+Rather than simply listing skills, the site showcases complete, documented examples of how I approach problems, structure analysis, and communicate results.  
+Each project links to its full GitHub repository for detailed review.
+
 
 ---
 
