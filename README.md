@@ -31,7 +31,7 @@ Empirical finance project evaluating whether narrowly passed CSR shareholder pro
 
 Segment-level profitability analysis examining revenue composition, cost drivers, and margin contribution to identify performance trends and strategic implications.
 
-- [View Repository](https://github.com/alexhill082427-portfolio/Segement-Profitability-Analysis)
+- [View Repository](https://github.com/alexhill082427-portfolio/Segment-Profitability-Analysis)
 
 ---
 
