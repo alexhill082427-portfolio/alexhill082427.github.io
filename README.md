@@ -18,7 +18,6 @@ Each project links to its full GitHub repository for detailed review.
 ## Projects
 
 ### Corporate Social Responsibility & Market Reaction  
-**Regression Discontinuity Design | Event Study | Python**
 
 Empirical finance project evaluating whether narrowly passed CSR shareholder proposals generate statistically significant abnormal stock returns.
 
@@ -27,11 +26,18 @@ Empirical finance project evaluating whether narrowly passed CSR shareholder pro
 ---
 
 ### Segment Profitability Analysis  
-**Business Analytics | Margin Decomposition | Python & Excel**
 
 Segment-level profitability analysis examining revenue composition, cost drivers, and margin contribution to identify performance trends and strategic implications.
 
 - [View Repository](https://github.com/alexhill082427-portfolio/Segment-Profitability-Analysis)
+
+---
+
+### Profit Variance & Revenue Driver Decomposition  
+
+Driver-based financial analysis decomposing revenue and operating profit changes between 2013 and 2014.
+
+- [View Repository](https://github.com/alexhill082427-portfolio/Variance-Decomposition)
 
 ---
 
